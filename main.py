@@ -1,0 +1,1 @@
+print ("hello my name is pavlo but i sus")
